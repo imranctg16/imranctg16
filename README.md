@@ -1,11 +1,11 @@
 ![Header](https://i.postimg.cc/T3CHPHRT/my-profile-picture.jpg)
 
-# Hi there, I'm [Mohammad Imran Hossain] 👋
+# Hi there, I'm Mohammad Imran Hossain 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohammad-imran-hossain-783803135-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourLinkedInProfile/)](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)
 
 
-Welcome to my GitHub profile! I'm [Mohammad Imran Hossain], a passionate software developer from [Dhaka,Bangladesh].
+Welcome to my GitHub profile! I'm Mohammad Imran Hossain, a professional full-stack software developer from Dhaka,Bangladesh.
 
 ## 🚀 About Me
 
