@@ -46,6 +46,11 @@ Welcome to my GitHub profile! I'm Mohammad Imran Hossain, a professional full-st
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranctg16&theme=radical)
 
+## LeetCode Profile
+
+Check out my [LeetCode profile](https://leetcode.com/user5383h) to see my coding skills and problem-solving abilities.
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/user5383h)
 
 
 ## 🌐 Connect with me
