@@ -55,4 +55,4 @@ Check out my [LeetCode profile](https://leetcode.com/user5383h) to see my coding
 
 ## 🌐 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-yourLinkedInProfile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)
+[![Linkedin Badge](https://img.shields.io/badge/-ImranHossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)
