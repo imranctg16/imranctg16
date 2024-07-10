@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mohammad Imran Hossain 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-mohammad-imran-hossain-783803135-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourLinkedInProfile/)](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Imran%20Hossain-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)
 
 
 Welcome to my GitHub profile! I'm Mohammad Imran Hossain, a professional full-stack software developer from Dhaka,Bangladesh.
