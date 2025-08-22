@@ -1,58 +1,66 @@
-![Header](https://i.postimg.cc/T3CHPHRT/my-profile-picture.jpg)
+# Mohammad Imran Hossain
 
-# Hi there, I'm Mohammad Imran Hossain 👋
+[LinkedIn](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/) • [GitHub](https://github.com/imranctg16) • [Portfolio](https://imran-react-portfolio.netlify.app) • [Blog](https://imran-react-portfolio.netlify.app/blog) • [Resume](https://imran-react-portfolio.netlify.app/resume)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%20Imran%20Hossain-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)
+---
 
+## About Me
 
-Welcome to my GitHub profile! I'm Mohammad Imran Hossain, a professional full-stack software developer from Dhaka,Bangladesh.
+I’m a **Technical Lead** with ~7 years of experience designing and scaling enterprise web platforms.  
+My focus areas: **microservices migration, high-performance databases, distributed systems, and event-driven architecture.**
 
-## 🚀 About Me
+- Led microservice migration for **Bangladesh’s largest telecom (82M+ subscribers)**  
+- Cut reporting queries from 20 minutes → 30 seconds (millions of records daily)  
+- Built systems adopted across **3 development teams** and mentored 8+ engineers  
+- Experienced in **Laravel, Vue.js, React, Node.js, RabbitMQ, Docker, AWS**  
+- Published author (*Springer, 2019*)  
 
-- 🌱 I’m currently learning [AWS, SQS, RabbitMQ, Event-Driven Architecture]
-- 💬 Ask me about [PHP, Microservice, Laravel, VueJs]
-- 📫 How to reach me: [imranhossain16.ctg@gmail.com]
-- ⚡ Fun fact: [I love designing solutions that makes people's life easier]
+---
 
-## 🛠️ My Skills
+## Selected Projects
 
-### Languages
+### Dynamic Workflow Engine (DWE)  
+Migrated legacy CakePHP telecom system into a modern microservices platform.  
+**Stack:** Laravel 9+, Vue 3, MySQL 8, Redis, RabbitMQ, Docker, MinIO  
+**Impact:** 95% faster reporting, 11+ services, dynamic forms, RBAC, workflow engine  
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+---
 
-### Frameworks and Libraries
+### SQL Playground  
+Interactive platform for learning SQL with real-time queries and schema visualization.  
+**Stack:** Laravel, React, TypeScript, MySQL, Docker  
+**Demo:** [Live](https://imran-sql-playground.netlify.app) • [GitHub](https://github.com/imranctg16/sql-playground)  
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
-![CakePHP](https://img.shields.io/badge/-CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+---
 
+### AWS Exam Prep  
+Full-stack LMS for AWS practice exams with 900+ questions, analytics, and microservices-ready design.  
+**Stack:** Laravel, Vue 3.4, MongoDB, Docker, Vite  
+**Repo:** [GitHub](https://github.com/imranctg16/aws-exam-prep)  
+**Demo:** [Live](https://aws-exam-prep-frontend.fly.dev/)
 
-### Tools and Platforms
+---
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### README Reader Pro  
+Multi-doc Markdown reader with diagrams, tabs, and modern UI.  
+**Stack:** React 19, TypeScript, Vite, Mermaid  
+**Demo:** [Live](https://readme-reader.netlify.app) • [GitHub](https://github.com/imranctg16/readme-reader)  
 
-## 📈 GitHub Stats
+---
 
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranctg16&show_icons=true&theme=radical)
+## Skills Snapshot
 
-## 🔥 Streak Stats
+- **Backend:** PHP (Laravel, CakePHP), Node.js/Express  
+- **Frontend:** Vue.js, Nuxt.js, React, TypeScript  
+- **Databases:** MySQL 8, MongoDB, Redis  
+- **Cloud/Infra:** AWS (S3, EC2, Lambda), Docker, Nginx  
+- **Messaging/Async:** RabbitMQ, Laravel Queues, Webhooks  
+- **Practices:** Microservices, REST APIs, CI/CD, Performance Tuning, Observability  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranctg16&theme=radical)
+---
 
-## LeetCode Profile
+## Quick Links
+- 📂 [Complete Portfolio](https://imran-react-portfolio.netlify.app)  
+- ✍️ [Technical Blog](https://imran-react-portfolio.netlify.app/blog)  
+- 📜 [Resume PDF](https://imran-react-portfolio.netlify.app/resume)  
 
-Check out my [LeetCode profile](https://leetcode.com/user5383h) to see my coding skills and problem-solving abilities.
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/user5383h)
-
-
-## 🌐 Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-ImranHossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)](https://www.linkedin.com/in/mohammad-imran-hossain-783803135/)
